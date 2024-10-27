@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 Buscando **uma oportunidade**
+ Buscando **uma oportunidade**
  
- 🌱 Aprendendo **Python, HTML5, CSS3**
+ Aprendendo **Python, HTML5, CSS3**
  
  </div>
  
@@ -28,7 +28,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages & Frameworks + Tools ⚒️</h2>
+<h2 align="center">Linguagens & Frameworks + Ferramentas</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,html,css,vscode,github,git" />
@@ -38,7 +38,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 Minhas contribuições 🐍</h2>
+  <h2>Minhas contribuições</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
@@ -47,7 +47,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">Estatísticas</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ryhenrique&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
