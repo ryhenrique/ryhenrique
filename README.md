@@ -8,7 +8,7 @@
 
 <div align="center">
  
- Buscando **uma oportunidade**
+ Buscando uma **oportunidade na área**
  
  Aprendendo **Python, HTML5, CSS3**
  
