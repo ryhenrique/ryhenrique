@@ -12,7 +12,7 @@
  
  🔭 Buscando **uma oportunidade**
  
- 🌱 Aprendendo **Python, HTML5, CSS3 **
+ 🌱 Aprendendo **Python, HTML5, CSS3**
  
  </div>
  
