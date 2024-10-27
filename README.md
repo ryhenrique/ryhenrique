@@ -28,7 +28,7 @@
 
  <hr/>
  
-<h2 align="center">Linguagens & Frameworks + Ferramentas</h2>
+<h2 align="center">Linguagens & Ferramentas</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,html,css,vscode,github,git" />
